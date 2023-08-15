@@ -1,0 +1,9 @@
+name: SkyBlockAbosh
+main: SkyBlock\ZulfahmiFjr\Main
+version: 1.0
+api: 3.0.0
+author: abosh
+
+commands:
+ skyblock:
+     description: SkyBlockAbosh plugin command
