@@ -1,7 +1,7 @@
 name: SkyBlockAbosh
 main: SkyBlock\ZulfahmiFjr\Main
 version: 1.0
-api: 3.0.0
+api: 5.0.0
 author: abosh
 
 commands:
